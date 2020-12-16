@@ -1,3 +1,4 @@
 # euclid
 Testing crossbrowser support
-To big damn pictures
+
+Too big damn pictures
